@@ -8,7 +8,8 @@ Own-ChatBot <br/>
 <br/>
 
 <center>
-
+  
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/made-with-html.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/made-with-css.svg)](https://forthebadge.com) &nbsp;
 ![GitHub Repo stars](https://img.shields.io/github/stars/ManojParkale/Own-ChatBot?color=red&logo=github&style=for-the-badge) &nbsp;
