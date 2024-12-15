@@ -41,7 +41,7 @@ This project was built using these technologies.
 
 ## Features
 
-**📖 Multi-Page Layout**
+**📖   Single-Page Layout**
 
 **🎨 Styled with CSS, easy to customize colors**
 
